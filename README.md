@@ -2,15 +2,15 @@
 <hr>
 I am Ivan, frontend developer
 
-Currently learning:
+🤓 Currently learning:
 - JavaScript
 - React
 
-Want to improve:
+📈 Want to improve:
 - accessibility
 - design
 
-My hobbies are:
+⛰️ My hobbies are:
 - hiking
 - gardening
 
