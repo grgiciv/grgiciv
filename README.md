@@ -1,6 +1,17 @@
-# Greetings humans!
+# Hello world!
+<hr>
+I am Ivan, frontend developer
 
-I'm here to learn frontend!
+Currently learning:
+- JavaScript
+- React
 
-- First I'm gonna learn JavaScript :neckbeard:
-- Then all of the code 👹
+Want to improve:
+- accessibility
+- design
+
+My hobbies are:
+- hiking
+- gardening
+
+Open to learning and collaboration.
