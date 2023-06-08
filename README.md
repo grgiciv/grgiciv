@@ -2,6 +2,7 @@
 <hr>
 I am Ivan, frontend developer<br/>
 <br />
+
 🤓 Currently learning:
 - JavaScript
 - React
